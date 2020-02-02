@@ -1,4 +1,6 @@
 require_relative '../lib/greeting.rb'
   
-  Name = "don"
+  name = "don"
+
+puts greeting
 
